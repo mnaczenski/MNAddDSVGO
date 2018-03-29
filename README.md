@@ -7,3 +7,5 @@ https://community.shopware.com/Datenschutz-Hinweis-in-die-Artikelbewertung-einba
 https://community.shopware.com/Datenschutz-Hinweis-in-die-Formulare-einbauen_detail_2060_795.html
 https://community.shopware.com/Datenschutz-Hinweis-in-die-Registrierung-einbauen_detail_2059_795.html
 https://community.shopware.com/Datenschutz-Hinweis-in-die-Newsletter-Registrierung-einbauen_detail_2058_795.html
+
+
