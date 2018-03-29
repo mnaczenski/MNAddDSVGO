@@ -101,5 +101,26 @@
                 </option>
             </store>
         </element>
+        <element type="select">
+            <name>addcheckout</name>
+            <label>Hinweis im Checkout anzeigen</label>
+            <store>
+                <option>
+                    <value>snippet</value>
+                    <label lang="de">Textbaustein</label>
+                    <label lang="en">Snippet</label>
+                </option>
+                <option>
+                    <value>checkbox</value>
+                    <label lang="de">Checkbox</label>
+                    <label lang="en">checkbox</label>
+                </option>
+                <option>
+                    <value>nothing</value>
+                    <label lang="de">Keine Anzeige</label>
+                    <label lang="en">show nothing</label>
+                </option>
+            </store>
+        </element>
     </elements>
 </config>

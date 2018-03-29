@@ -64,6 +64,7 @@ class MNAddDSVGO extends \Shopware\Components\Plugin
             'addNewsletter' => $this->container->get('config')->getByNamespace('MNAddDSVGO','addNewsletter'),
             'addComment' => $this->container->get('config')->getByNamespace('MNAddDSVGO','addComment'),
             'addBlog' => $this->container->get('config')->getByNamespace('MNAddDSVGO','addBlog'),
+            'addCheckout' => $this->container->get('config')->getByNamespace('MNAddDSVGO','addcheckout'),
         ]
         );
     }
