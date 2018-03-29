@@ -4,33 +4,37 @@
     <elements>
         <element type="select">
             <name>addRegister</name>
-            <label>Hinweis in der Registrierung anzeigen</label>
+            <label lang="de">Hinweis in der Registrierung anzeigen</label>
+            <description lang="de">Wenn Sie alternativ eine Checkbox aktivieren möchten, finden Sie die Einstellung in den Grundeinstellungen unter Anmeldung/Registrierung.</description>
+            <description lang="en">If you want to use a checkbox instead of the snippet, you can activate it in the basic settings > login/registration.</description>
             <store>
                 <option>
-                    <value>1</value>
-                    <label lang="de">Ja</label>
-                    <label lang="en">Yes</label>
+                    <value>snippet</value>
+                    <label lang="de">Textbaustein</label>
+                    <label lang="en">Snippet</label>
                 </option>
                 <option>
-                    <value>0</value>
-                    <label lang="de">Nein</label>
-                    <label lang="en">No</label>
+                    <value>nothing</value>
+                    <label lang="de">Keine Anzeige</label>
+                    <label lang="en">show nothing</label>
                 </option>
             </store>
         </element>
         <element type="select">
             <name>addForms</name>
             <label>Hinweis in den Formularen anzeigen</label>
+            <description lang="de">Wenn Sie alternativ eine Checkbox aktivieren möchten, können Sie diese über den Formular-Editor bereits implementieren. Ein Beispiel findet sich in der Doku.</description>
+            <description lang="en">If you want to use a checkbox instead of a snippet, you can already use the form functionalities of shopware.</description>
             <store>
                 <option>
-                    <value>1</value>
-                    <label lang="de">Ja</label>
-                    <label lang="en">Yes</label>
+                    <value>snippet</value>
+                    <label lang="de">Textbaustein</label>
+                    <label lang="en">Snippet</label>
                 </option>
                 <option>
-                    <value>0</value>
-                    <label lang="de">Nein</label>
-                    <label lang="en">No</label>
+                    <value>nothing</value>
+                    <label lang="de">Keine Anzeige</label>
+                    <label lang="en">show nothing</label>
                 </option>
             </store>
         </element>
@@ -39,14 +43,19 @@
             <label>Hinweis in der Newsletter-Registrierung anzeigen</label>
             <store>
                 <option>
-                    <value>1</value>
-                    <label lang="de">Ja</label>
-                    <label lang="en">Yes</label>
+                    <value>snippet</value>
+                    <label lang="de">Textbaustein</label>
+                    <label lang="en">Snippet</label>
                 </option>
                 <option>
-                    <value>0</value>
-                    <label lang="de">Nein</label>
-                    <label lang="en">No</label>
+                    <value>checkbox</value>
+                    <label lang="de">Checkbox</label>
+                    <label lang="en">checkbox</label>
+                </option>
+                <option>
+                    <value>nothing</value>
+                    <label lang="de">Keine Anzeige</label>
+                    <label lang="en">show nothing</label>
                 </option>
             </store>
         </element>
@@ -55,14 +64,19 @@
             <label>Hinweis in den Artikelbewertungen anzeigen</label>
             <store>
                 <option>
-                    <value>1</value>
-                    <label lang="de">Ja</label>
-                    <label lang="en">Yes</label>
+                    <value>snippet</value>
+                    <label lang="de">Textbaustein</label>
+                    <label lang="en">Snippet</label>
                 </option>
                 <option>
-                    <value>0</value>
-                    <label lang="de">Nein</label>
-                    <label lang="en">No</label>
+                    <value>checkbox</value>
+                    <label lang="de">Checkbox</label>
+                    <label lang="en">checkbox</label>
+                </option>
+                <option>
+                    <value>nothing</value>
+                    <label lang="de">Keine Anzeige</label>
+                    <label lang="en">show nothing</label>
                 </option>
             </store>
         </element>
@@ -71,14 +85,19 @@
             <label>Hinweis in den Blog-Kommentaren anzeigen</label>
             <store>
                 <option>
-                    <value>1</value>
-                    <label lang="de">Ja</label>
-                    <label lang="en">Yes</label>
+                    <value>snippet</value>
+                    <label lang="de">Textbaustein</label>
+                    <label lang="en">Snippet</label>
                 </option>
                 <option>
-                    <value>0</value>
-                    <label lang="de">Nein</label>
-                    <label lang="en">No</label>
+                    <value>checkbox</value>
+                    <label lang="de">Checkbox</label>
+                    <label lang="en">checkbox</label>
+                </option>
+                <option>
+                    <value>nothing</value>
+                    <label lang="de">Keine Anzeige</label>
+                    <label lang="en">show nothing</label>
                 </option>
             </store>
         </element>
