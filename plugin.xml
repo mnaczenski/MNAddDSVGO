@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/plugin.xsd">
-    <label lang="de">MNAddDSVGO</label>
-    <label lang="en">MNAddDSVGO</label>
+    <label lang="de">MNAddDSGVO</label>
+    <label lang="en">MNAddDSGVO</label>
 
     <version>1.0.0</version>
     <link>https://github.com/mnaczenski/</link>
     <author>Moritz Naczenski</author>
     <compatibility minVersion="5.2.0" />
 
-    <changelog version="1.3.0">
+    <changelog version="1.3.1">
         <changes lang="de">Veröffentlichung</changes>
         <changes lang="en">Release</changes>
     </changelog>
